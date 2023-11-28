@@ -1,9 +1,9 @@
 # DONATE
 
-💥 Port scanning is our hobby and it takes up a lot of our time and money.
-💥 CryptoCurrency addresses are listed below, feel free to donate whatever sum you want, whenever you want.
-❤️ Thanks goes out to everyone who supporting us.
-
+💥 Port scanning is our hobby and it takes up a lot of our time and money.  
+💥 CryptoCurrency addresses are listed below, feel free to donate whatever sum you want, whenever you want.  
+❤️ Thanks goes out to everyone who supporting us.  
+  
 ```
 Bitcoin (BTC):
 3QTWf8fJGxzmm9SJxNbrGVGguecLjhsskD
